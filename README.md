@@ -1,4 +1,4 @@
-## **Conhecendo times de eSports**
+## **Conhecendo times de eSports -- Projeto Imersão Dev Google Gemini + Alura**
 
 ### **TL;DR:**
 
